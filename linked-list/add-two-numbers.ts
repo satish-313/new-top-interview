@@ -30,3 +30,5 @@ function addTwoNumbers(
 
     return ans.next;
 }
+
+export { ListNode };
